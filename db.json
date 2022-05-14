@@ -1,0 +1,28 @@
+{
+	"jojos": [
+		{
+			"id": 1,
+			"nombre": "Aple",
+			"pais": "Estados unidos",
+			"capital": "8",
+			"acciones": "8"
+		},
+		{
+			"id": 2,
+			"nombre": "Aple",
+			"pais": "Estados unidos",
+			"capital": "8",
+			"acciones": "8"
+		},
+		{
+			"id": 3,
+			"nombre": "Aple",
+			"pais": "Estados unidos",
+			"capital": "8",
+			"acciones": "8"
+		}
+	],
+	"profile": {
+		"name": "Joanutsu"
+	}
+}
